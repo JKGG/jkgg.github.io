@@ -1,2 +1,2 @@
-# jkgg.github.io
-JKGG Investment LLC.
+# JKGG Investment LLC.
+
