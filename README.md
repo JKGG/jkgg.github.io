@@ -1,2 +1,1 @@
-# JKGG Investment LLC.
 
