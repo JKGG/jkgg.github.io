@@ -1,25 +1,25 @@
-# Privacy Policy
+<h1>Privacy Policy</h1>
 
 
-Effective date: November 06, 2018
+<p>Effective date: November 06, 2018</p>
 
 
-JKGG Investments LLC ("us", "we", or "our") operates the https://jkgginvestmentsllc.com website and the Daily Horoscope mobile application (the "Service").
+<p>JKGG Investments LLC ("us", "we", or "our") operates the https://jkgginvestmentsllc.com website and the Daily Horoscope mobile application (the "Service").</p>
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
 
-## Information Collection And Use
+<h2>Information Collection And Use</h2>
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
 
-### Types of Data Collected
+<h3>Types of Data Collected</h3>
 
-#### Personal Data
+<h4>Personal Data</h4>
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
 
 <ul>
 <li>Cookies and Usage Data</li>
