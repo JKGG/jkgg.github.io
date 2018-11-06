@@ -1,3 +1,3 @@
 # Contact us
 
-Any and all questions please direct to our email [jkgginvestmentsllc@gmail.com](jkgginvestmentsllc@gmail.com)
+Have a question? Reach us at:  [jkgginvestmentsllc@gmail.com](jkgginvestmentsllc@gmail.com)
