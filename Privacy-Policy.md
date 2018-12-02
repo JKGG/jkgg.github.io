@@ -4,7 +4,7 @@
 <p>Effective date: November 06, 2018</p>
 
 
-<p>JKGG Investments LLC ("us", "we", or "our") operates the https://jkgginvestmentsllc.com website and the Daily Horoscope mobile application (the "Service").</p>
+<p>JKGG Investments LLC ("us", "we", or "our") operates the https://jkgginvestmentsllc.com website and the Daily Horoscopes 2019 mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
